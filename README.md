@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang="ar" 
 head
- <meta charset="UTF-8">  <title>موقعي</title>   <style>
+ <meta charset="UTF-8">  
+  <style 
+  
             background-position: center;
             background-repeat: no-repeat;
             color::-webkit-scrollbar-track
            </style>
-</head>
+</head
+
 <body>
     >
-     <TItle>  < bRAND->SCHOOL- مدرسة تعليم لتسليط ضوء على العلامات التجارية </bRAND-> ></TItle>.
-    meta name="description" content=منصة مخصصة لتعليم استراتجيات بناء العلامات التجارية والتسويق الرقمي 
+    h1 <TItle>  < bRAND->SCHOOL- مدرسة تعليم لتسليط ضوء على العلامات التجارية </bRAND-> ></TItle>.h1
+   h2 منصة مخصصة لتعليم استراتجيات بناء العلامات التجارية والتسويق الرقمي h2
     link rel="stylesheet" href="stykes.css"/
 body
 header
