@@ -1,4 +1,5 @@
-[indexfr.html](https://github.com/user-attachments/files/24218746/indexfr.html)
+
+
 <!DOCTYPE html>
 <html lang="ar">
 <head><meta charset="UTF-8">  <title>موقعي</title>   <style>
@@ -44,5 +45,3 @@ ul
 li a href=btn class"#home"accueil/a li herf = btn class"للمزيد تواصل معنا عبر الفايسبوك او الايميل" link: name=https://www.facebook.com/XxmerxX1 and link: merclean68@gmail.com
 body
 html
-
-
